@@ -70,7 +70,7 @@ Technologies that I used to develop this web client
 
 ### Requirements
 
-- Have this application's [API](https://github.com/caioperess/goBarber_api) running
+- Have this application's [API](https://github.com/caioperess/goBarber-api) running
 
 **Clone the project and access the folder**
 
